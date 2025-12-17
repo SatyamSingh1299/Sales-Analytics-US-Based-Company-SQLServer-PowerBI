@@ -1,4 +1,4 @@
-<h1 align="center">Sales Analytics - Data Analysis using Power BI & SQL Server <a /href="https://public.tableau.com/app/profile/satyam.singh7169/vizzes" target="_blank" rel="noreferrer">
+# Sales Analytics - Data Analysis using Power BI & SQL Server
 
 ### Project Description
 - Performed analytics on a US-based hardware company with branches all over the country.  
